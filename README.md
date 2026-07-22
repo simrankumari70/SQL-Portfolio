@@ -17,6 +17,8 @@ This repository contains my SQL Portfolio Project created using PostgreSQL. It d
 
 ## Project
 📄 SQL Portfolio Project (PDF)
+This project contains SQL queries and solutions based on real-world business scenarios.
+It demostrates my SQL problem-solving and data analysis skills using PostgreSQL.
 
 ## Goal
 I am continuously improving my skills in SQL, Excel, Power BI, and Data Analytics by building practical projects.
